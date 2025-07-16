@@ -12,38 +12,6 @@
       "round": "Iraq League - Final"
     },
     
-    {
-      "team1_name": "Erbil",
-      "team1_logo": "https://example.com/logos/erbil.png",
-      "team2_name": "Sulaymaniyah",
-      "team2_logo": "https://example.com/logos/sulaymaniyah.png",
-      "time": "17:30",
-      "date": "2025-07-21",
-      "match_link": "https://example.com/matches/erbil-vs-sulaymaniyah",
-      "stadium": "Franso Hariri Stadium",
-      "round": "Kurdistan Premier League - Round 15"
-    },
-    {
-      "team1_name": "Newroz",
-      "team1_logo": "https://example.com/logos/newroz.png",
-      "team2_name": "Peshmerga",
-      "team2_logo": "https://example.com/logos/peshmerga.png",
-      "time": "20:00",
-      "date": "2025-07-22",
-      "match_link": "https://example.com/matches/newroz-vs-peshmerga",
-      "stadium": "Newroz Stadium",
-      "round": "Kurdistan Premier League - Round 15"
-    },
-    {
-      "team1_name": "Handren",
-      "team1_logo": "https://example.com/logos/handren.png",
-      "team2_name": "Sirwan",
-      "team2_logo": "https://example.com/logos/sirwan.png",
-      "time": "18:45",
-      "date": "2025-07-23",
-      "match_link": "https://example.com/matches/handren-vs-sirwan",
-      "stadium": "Handren Stadium",
-      "round": "Kurdistan Premier League - Round 15"
-    }
+ 
   ]
 }
